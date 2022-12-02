@@ -1,0 +1,27 @@
+                ---->                                   <----
+
+HTML -->  client <--
+c,c++,java
+: java script is dynamically typed languguge : -
+
+python,js
+
+DOM --> document object model
+
+-->
+--------------------------------------
+
+3 
+.js
+
+
+operators:
+operators are special symbol which help to perform any operation on operands
+arithmatic operators + - * / % ++ --
+relational operators < > <= >= == !=, === ,!==
+logical operators && || !
+bitwise operators & | ^ ~ << >>
+assignment operators = += -= *= /= %= <<= >>= &= ^= |=
+ternary operator ?:
+
+
