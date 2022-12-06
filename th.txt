@@ -26,39 +26,75 @@ ternary operator ?:
 
 
 //map
-data ={
-    {
-        country:[
+data= {
+
+    countries:[
+        {
             name:india,
-            state:[
+            states:[
                 {
-                name:
-                city:[
-                    {
-                    name:ahmedabad
-                    popultaion:12
-                    },
-                    {
-                    name:rajkot
-                    popultaion:12
-                    }
+                    name:
+                    city:[
+                        {
+                            name:ahmedaba
+                            popultaion
+                        },
+                        {
+                            name:bangalore
+                            popultaion:115
+                        }
+                    ]
                 },
                 {
-                name:
-                city:[
-                    {
-                    name:ahmedabad
-                    popultaion:12
-                    },
-                    {
-                    name:rajkot
-                    popultaion:12
-                    }
-                },
-                ]
+                    name:maharastra
+                    city:[
+                        {
+                            name:mumbai
+                            popultaion:115
+                        },
+                        {
+                            name:pune
+                            popultaion:115
+                        },
+                        
+                    ]
+                }
             ]
-        ]
-    }
+        },
+        {
+                name:pakistan,
+            states:[
+                {
+                    namepunjab:
+                    city:[
+                        {
+                            name:abc
+                            popultaion:15
+                        },
+                        {
+                            name:xyz
+                            popultaion:10
+                        }
+                    ]
+                },
+                {
+                    name:maharastra
+                    city:[
+                        {
+                            name:mumbai
+                            popultaion:115
+                        },
+                        {
+                            name:pune
+                            popultaion:115
+                        },
+                        
+                    ]
+                }
+            ]
+        }
+    ]
+
 }
 
 1)india ->  avaialble --> popultaion
