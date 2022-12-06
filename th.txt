@@ -25,3 +25,43 @@ assignment operators = += -= *= /= %= <<= >>= &= ^= |=
 ternary operator ?:
 
 
+//map
+data ={
+    {
+        country:[
+            name:india,
+            state:[
+                {
+                name:
+                city:[
+                    {
+                    name:ahmedabad
+                    popultaion:12
+                    },
+                    {
+                    name:rajkot
+                    popultaion:12
+                    }
+                },
+                {
+                name:
+                city:[
+                    {
+                    name:ahmedabad
+                    popultaion:12
+                    },
+                    {
+                    name:rajkot
+                    popultaion:12
+                    }
+                },
+                ]
+            ]
+        ]
+    }
+}
+
+1)india ->  avaialble --> popultaion
+2)find country name which has max population
+3)find state name which has max population
+4)find city name which has max population
