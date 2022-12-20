@@ -1,0 +1,67 @@
+var arr = {
+    data:[
+        {
+            country:"India",
+            states:[
+                {
+                    name:"Karnataka",
+                    cities:[
+                        {
+                            name:"Bangalore",
+                            population:12500
+                        },
+                        {
+                            name:"Mysore",
+                            population:1250
+                        }
+                    ]
+                },
+                {
+                    name:"Gujarat",
+                    cities:[
+                        {
+                            name:"Ahmedabad",
+                            population:14000
+                        },
+                        {
+                            name:"Surat",
+                            population:1000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            country:"USA",
+            states:[
+                {
+                    name:"California",
+                    cities:[
+                        {
+                            name:"San Francisco",
+                            population:1000
+                        },
+                        {
+                            name:"Los Angeles",
+                            population:1500
+                        }
+                    ]
+                },
+                {
+                    name:"Texas",
+                    cities:[
+                        {
+                            name:"Houston",
+                            population:14000
+                        },
+                        {
+                            name:"Dallas",
+                            population:14500
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+
