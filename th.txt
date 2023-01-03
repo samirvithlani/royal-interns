@@ -101,3 +101,23 @@ data= {
 2)find country name which has max population
 3)find state name which has max population
 4)find city name which has max population
+
+
+
+on key up validation length border red...
+on key press
+
+dont press shift key if press alert
+control ...
+
+
+print:
+if lower case thn upper
+if upper case thn lower
+len - 5
+
+
+2 callback....
+param string  ---> cb1 function len return 
+param number --> even odd -->
+
