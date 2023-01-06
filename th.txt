@@ -121,3 +121,12 @@ len - 5
 param string  ---> cb1 function len return 
 param number --> even odd -->
 
+
+
+mouse event
+
+img over and out
+
+/// after page loadd --> image --->
+
+

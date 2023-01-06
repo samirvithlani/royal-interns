@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="./Mouseevent.js"></script>
+    <style>
+        .text{
+            background-color: red;
+            width: 100px;
+            height: 100px;
+        }
+        .text2{
+            background-color: green;
+            width: 400px;
+            height: 800px;
+        }
+    </style>
+</head>
+<body onload="demo4(event)">
+
+        <button onclick="demo(event)">click</button>
+        <button ondblclick="demo(event)">click</button>
+        <div onmouseover="demo1()" id="text" class="text">
+            <h1>
+                Hello
+            </h1>
+        </div>
+        <div onmouseleave="demo2()" id = "text2" class="text">
+            <h1>
+                Hello
+            </h1>
+        </div>
+
+        <div onscroll="demo4()" id = "text3"  class="text2">
+                <p>Src</p>
+        </div>
+</body>
+</html>
