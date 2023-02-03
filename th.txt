@@ -130,3 +130,16 @@ img over and out
 /// after page loadd --> image --->
 
 SCROLL IN DIV????
+
+
+CRUD !!
+Form add --->
+[------]samir two way data n=binding
+
+
+display
+raws    ------------------> delete --> confirm update
+
+customieze
+
+
